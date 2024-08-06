@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Alexandru Dinu</h2>
 <h3 align="left">Currently studying at University Politehnica of Bucharest</h3>
 <h3 align="left">Faculty of Automatic Control and Computer Science</h3>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
