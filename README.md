@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Alexandru Dinu</h2>
+<h3 align="left">Currently studying at University Politehnica of Bucharest</h3>
 
 ###
 
